@@ -1,0 +1,14 @@
+numpy
+faiss-cpu
+sentence-transformers
+pymupdf
+pytesseract
+Pillow
+python-docx
+python-pptx
+openpyxl
+groq
+laya
+fastapi>=0.115
+uvicorn>=0.30
+python-multipart>=0.0.9

@@ -1,0 +1,32 @@
+{
+  "real-test": {
+    "summary": "L'utilisateur a indiqué ne pas comprendre, sans contexte préalable. L'assistant a demandé des précisions sur le sujet, en suggérant des thèmes liés aux documents disponibles : actions de la JCI Sidi Mansour (Clear AM!, formations N8N), rapports moraux/financiers ou activités spécifiques. En attente de reformulation de la part de l'utilisateur.",
+    "keywords": [
+      "JCI Sidi Mansour",
+      "Clear AM!",
+      "formations N8N",
+      "rapports moraux",
+      "rapports financiers",
+      "clarification",
+      "contexte manquant"
+    ],
+    "messages": [
+      {
+        "role": "user",
+        "content": "Je n'ai pas compris."
+      },
+      {
+        "role": "assistant",
+        "content": "Bonjour ! Je comprends que vous ayez besoin de plus de précisions.\n\nComme il n'y a pas d'historique de conversation précédent, je ne sais pas exactement à quoi vous faites référence. Pourriez-vous reformuler votre question ou préciser le sujet qui vous pose problème ?\n\nPar exemple, souhaitez-vous des informations sur :\n*   Les actions menées par la JCI Sidi Mansour (comme l'action \"Clear AM!\" ou les formations N8N) ?\n*   Les rapports moraux ou financiers ?\n*   Une activité spécifique mentionnée dans les documents ?\n\nN'hésitez pas à me donner plus de détails, je ferai de mon mieux pour vous aider en m'appuyant sur les documents disponibles."
+      },
+      {
+        "role": "user",
+        "content": "Quels projets ont été réalisés en 2024 ?"
+      },
+      {
+        "role": "assistant",
+        "content": "D'après les documents disponibles, voici les principaux projets et activités réalisés par la JCI Sidi Mansour en 2024 :\n\n**1. Actions et Projets Sociaux**\n*   **Action « Pour un avenir meilleur » (لغد أفضل)** :\n    *   **Objectif** : Renforcer les compétences de vie des enfants (premiers secours, sécurité routière), sensibiliser les adolescents aux comportements à risque et préparer les étudiants à la vie professionnelle.\n    *   **Dates** : 10 mars 2024 et 20 mars 2024.\n    *   **Lieu** : École Hay Bourguiba 1.\n    *   **Partenaires** : Ministère de l'enseignement Sfax 2 / École Hay Bourguiba 1.\n    *   *Source : rapport moral\\rapport Mars 2024 olm sidi mansour.pptx*\n\n**2. Formations et Développement des Compétences**\n*   **Forum de formation (Septembre 2024)** :\n    *   **Project Management** : Animé par Taher Mnif le 7 septembre 2024.\n    *   **JCI DISCOVER** : Animé par Hentati Lassas le 8 septembre 2024.\n    *   **JCI Explore** : Animé par Mondher Louati le 14 septembre 2024.\n    *   **Lieu** : Centre Ma Chance (pour le forum) et en ligne.\n    *   *Source : rapport moral\\rapport Septembre 2024 olm sidi mansour .pptx*\n*   **JVC MasterClass** :\n    *   **Objectif** : Présenter le fonctionnement de la plateforme JVC, son importance pour le réseautage et sa utilisation.\n    *   **Date** : 3 septembre 2024 (en ligne).\n    *   *Source : rapport moral\\rapport Septembre 2024 olm sidi mansour .pptx*\n*   **Effective Communication** :\n    *   **Formateur** : Amal Souissi.\n    *   **Date** : 8 juin 2024.\n    *   **Lieu** : Mind Space.\n    *   **Objectif** : Améliorer les compétences en communication et renforcer la collaboration inter-chapitres.\n    *   *Source : rapport moral\\Rapport Juillet 2024 OLM Sidi Mansour .pdf*\n*   **Brainstorming et Procédure Parlementaire (Janvier 2024)** :\n    *   **Brainstorming** : 14 janvier 2024 au Centre Ma Chance (12 participants).\n    *   **Procédure Parlementaire** : 28 janvier 2024 au Centre Ma Chance (24 participants).\n    *   *Source : rapport moral\\Rapport activitée janvier -mensuel OLM sidi mansour -2024.pptx*\n\n**3. Événements Communautaires et Institutionnels**\n*   **Journée récréative à la plage** :\n    *   **Date** : 20 juillet 2024.\n    *   **Lieu** : Chaffar.\n    *   **Partenaire** : Maison des Jeunes de Hay Essemar.\n    *   **Objectif** : Renforcer les liens communautaires et offrir une détente aux participants.\n    *   *Source : rapport moral\\Rapport Juillet 2024 OLM Sidi Mansour .pdf*\n*   **AGP (Assemblée Générale de Première partie)** :\n    *   **Date** : 7 juillet 2024.\n    *   **Lieu** : Polytechnique Sfax.\n    *   **Objectif** : Évaluer les projets du deuxième trimestre et adopter le rapport moral et financier du premier trimestre.\n    *   *Source : rapport moral\\Rapport Juillet 2024 OLM Sidi Mansour .pdf*\n\n**4. Projets Planifiés (Plan d'Action 2024)**\nLes documents mentionnent également des projets inscrits au plan d'action 2024, tels que :\n*   **Growdboost** : Une extension du programme 2023 axée sur le crowdfunding pour financer des projets de jeunes.\n*   **Start-up** : Une académie de formation accélérée pour les nouveaux diplômés, en collaboration avec d'autres OLMs et la Forteresse des Entreprises à Hay Al Ans.\n    *   *Source : PV\\plan d_action 2024.pptx*\n\nCes informations couvrent les mois de janvier, mars, juin/juillet et septembre 2024. Si vous souhaitez des détails sur d'autres mois spécifiques, merci de le préciser."
+      }
+    ]
+  }
+}
